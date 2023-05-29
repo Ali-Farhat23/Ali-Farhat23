@@ -49,7 +49,7 @@
 <div>
 <h3>Front-End:</h3>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,angular,css,scss,html,bootstrap,jquery,jest,materialui" />
+<img src="https://skillicons.dev/icons?i=react,angular,css,scss,html,bootstrap,materialui" />
 </a>
 </div>
 
@@ -58,7 +58,7 @@
 <div>
 <h3>Back-End:</h3>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,java,c,kafka" />
+<img src="https://skillicons.dev/icons?i=nodejs,javascript" />
 </a>
 </div>
 
