@@ -49,7 +49,7 @@
 <div>
 <h3>Front-End:</h3>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,angular,css,scss,html,bootstrap,materialui" />
+<img src="https://skillicons.dev/icons?i=angular,react,css,scss,html,bootstrap,materialui" />
 </a>
 </div>
 
